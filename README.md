@@ -261,7 +261,7 @@ GET    /api/health
 
 Full Stack Developer
 
-[GitHub](https://github.com/LalitMohanAgnihotri)
+[GitHub](https://github.com/bharadwajg2105)
 
 ---
 
